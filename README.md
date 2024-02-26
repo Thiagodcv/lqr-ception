@@ -1,5 +1,5 @@
 # LQR, iLQR, and Differentiable LQR
-This repository contains an implementation of finite- and infinite-horizon LQR [1], iLQR, and Differentiable LQR [3]. WARNING: I wrote this code in the summer of 2023, and I vaguely remember there being 
+This repository contains an implementation of finite- and infinite-horizon LQR [1], iLQR [2], and Differentiable LQR [3]. WARNING: I wrote this code in the summer of 2023, and I vaguely remember there being 
 some issue with my Differentiable LQR implementation; the good news is that my code is fairly easy to read, and so it still might be helpful for anyone trying to acquaint themselves with Differentiable LQR.
 
 ## Citations
